@@ -9,6 +9,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
+//I made changes!
+
 public class Game extends AppCompatActivity implements View.OnClickListener{
 
     Button button1;
